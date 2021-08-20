@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VvyXuvS1wR4vXZFbbd5I+nFtjmdjmih5NrOLGmdPDcQVoas3CZtjddGLS4lXeWWAx+TPEvADnkPISh3LZU47lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafac\\Desktop\\ApiDesafio\\softplan\\Api_2\\Api_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafac\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
